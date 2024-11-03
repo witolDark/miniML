@@ -1,0 +1,98 @@
+Feature,Importance
+Curricular units 2nd sem (approved),0.24223064740202602
+Tuition fees up to date,0.14636377795322839
+Curricular units 1st sem (approved),0.12383423285052768
+Curricular units 2nd sem (grade),0.09673766856754462
+Curricular units 2nd sem (evaluations),0.04444219848033962
+Age at enrollment,0.04152597821215831
+Curricular units 1st sem (evaluations),0.03471493950926197
+Curricular units 1st sem (grade),0.03424630041086792
+Course,0.024226710263112173
+Debtor,0.022273369806971623
+Application mode,0.01907041472934685
+Gender,0.01749608728644028
+Admission grade,0.016474290365800497
+Scholarship holder,0.01538776434039975
+Mother's occupation,0.012263362590906525
+Curricular units 1st sem (enrolled),0.011556388488786097
+Previous qualification (grade),0.009528630484253111
+Curricular units 2nd sem (enrolled),0.0077822347848697055
+Curricular units 1st sem (credited),0.007469317066866579
+Unemployment rate,0.005306143328427189
+GDP,0.005039825936187291
+Father's qualification,0.004838021623601831
+Father's occupation,0.004144691852724626
+Mother's qualification,0.003807267604189851
+Displaced,0.003316315980303496
+Curricular units 2nd sem (without evaluations),0.003090095698876475
+Inflation rate,0.0024676761157137405
+Marital status_2,0.0018588898597464818
+Application order,0.0018520312739957873
+Field of Study_Science,0.0018196089610109845
+Citizenship_Dublin,0.001657294944945582
+Nacionality_26,0.001445097936004832
+Nacionality_109,0.0014242331812538821
+Nacionality_21,0.001406921414305905
+Citizenship_Zurich,0.0013129327467434344
+Field of Study_Engineering,0.0012372329958179812
+Citizenship_Oslo,0.0012055215851886408
+Special Needs_Special Needs,0.0011331262662591917
+Citizenship_Istanbul,0.0011237639067247945
+Attendance_Part-Time,0.0011081149690944738
+Attendance_Full-Time,0.0011068790068744956
+Field of Study_Commerce,0.0011064551450344167
+Nacionality_25,0.001045582722816341
+Field of Study_Medicine,0.0010259518359646736
+Family Position_Youngest Child,0.0010205219595893788
+Attendance_Online,0.0009525518797857005
+Citizenship_Madrid,0.0009166341840122482
+Citizenship_Warsaw,0.0007284837307543787
+Citizenship_Vienna,0.0007086340564221348
+Citizenship_Helsinki,0.0006928139706831423
+Citizenship_Bucharest,0.0006640312000823517
+Citizenship_Copenhagen,0.0006601745498841365
+Marital status_4,0.0006543205725746372
+Citizenship_Paris,0.0006504131999752665
+Citizenship_Lisbon,0.000649233489520575
+Citizenship_Rome,0.0006201721023992001
+Citizenship_Berlin,0.0005804837488932002
+Nacionality_100,0.000525734196361471
+Citizenship_Milan,0.0004980714551592454
+Citizenship_Sofia,0.0004948628507469239
+Citizenship_London,0.0004893258600258199
+Nacionality_32,0.0004886402105924707
+Citizenship_Prague,0.0004676696166895405
+Curricular units 1st sem (without evaluations),0.0004675307323594317
+Citizenship_Edinburgh,0.00046554893687022466
+Citizenship_Barcelona,0.00046269391356401504
+Citizenship_Venice,0.0004314536230801656
+Nacionality_22,0.0004092183813195763
+Citizenship_Saint Petersburg,0.00039026825535656406
+Nacionality_41,0.00035340435519125226
+Citizenship_Budapest,0.00033468176857670855
+Citizenship_Athens,0.0002453961406085015
+Family Position_Middle Child,0.00023871520868962043
+Citizenship_Munich,0.0002292282493501997
+Citizenship_Kyiv,0.0002244690834018172
+Citizenship_Brussels,0.0001926199476711845
+Educational special needs,0.000149268262623723
+Nacionality_24,0.0001296943367014831
+Nacionality_6,8.83997837957874e-05
+Nacionality_17,8.638446538343451e-05
+Marital status_5,7.797418628946497e-05
+Nacionality_103,5.6287049500952e-05
+International,0.0
+Daytime/evening attendance,0.0
+Previous qualification,0.0
+Curricular units 2nd sem (credited),0.0
+Nacionality_62,0.0
+Nacionality_108,0.0
+Nacionality_13,0.0
+Marital status_3,0.0
+Marital status_6,0.0
+Nacionality_101,0.0
+Nacionality_105,0.0
+Nacionality_2,0.0
+Nacionality_14,0.0
+Nacionality_11,0.0
+Citizenship_Stockholm,0.0

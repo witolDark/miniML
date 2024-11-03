@@ -1,0 +1,98 @@
+Feature,Importance
+Tuition fees up to date,1.7624949743434568
+Curricular units 2nd sem (approved),0.5620133510757478
+Debtor,0.4609816173685633
+Scholarship holder,0.37416610340193057
+Curricular units 1st sem (approved),0.3733562279424977
+Course,0.3218228913181268
+Curricular units 1st sem (credited),0.26521564081962257
+Gender,0.1894338251361
+Mother's occupation,0.14738215760021162
+Displaced,0.1365968910686588
+Curricular units 2nd sem (evaluations),0.1328769573132212
+Application order,0.1324004143406582
+Citizenship_Lisbon,0.11482083825447693
+Unemployment rate,0.09235714564953658
+Curricular units 2nd sem (enrolled),0.08083218000568
+Curricular units 1st sem (grade),0.07020045299519365
+Curricular units 2nd sem (grade),0.06351706270211743
+Field of Study_Science,0.056039843504367075
+Curricular units 1st sem (enrolled),0.0541965478928153
+Family Position_Youngest Child,0.053546903554067146
+Curricular units 1st sem (evaluations),0.0504751296219898
+GDP,0.03954191920051423
+Age at enrollment,0.03616116635614059
+Special Needs_Special Needs,0.017880580595302672
+Mother's qualification,0.010368418656012268
+Field of Study_Medicine,0.007844593432454127
+Citizenship_Dublin,0.00737326196372709
+Admission grade,0.0037900891351756527
+Father's qualification,0.0025283846059506467
+Application mode,0.0022096609882584664
+Inflation rate,0.0020712242040961722
+Father's occupation,0.0012952885633778165
+Educational special needs,0.0
+Curricular units 2nd sem (without evaluations),0.0
+Curricular units 2nd sem (credited),0.0
+International,0.0
+Curricular units 1st sem (without evaluations),0.0
+Previous qualification (grade),0.0
+Previous qualification,0.0
+Daytime/evening attendance,0.0
+Marital status_3,0.0
+Nacionality_11,0.0
+Nacionality_13,0.0
+Nacionality_14,0.0
+Marital status_2,0.0
+Marital status_5,0.0
+Marital status_6,0.0
+Nacionality_2,0.0
+Marital status_4,0.0
+Nacionality_25,0.0
+Nacionality_26,0.0
+Nacionality_41,0.0
+Nacionality_32,0.0
+Nacionality_100,0.0
+Nacionality_101,0.0
+Nacionality_103,0.0
+Nacionality_62,0.0
+Nacionality_105,0.0
+Nacionality_108,0.0
+Attendance_Full-Time,0.0
+Nacionality_17,0.0
+Nacionality_21,0.0
+Nacionality_22,0.0
+Nacionality_24,0.0
+Nacionality_6,0.0
+Field of Study_Engineering,0.0
+Field of Study_Commerce,0.0
+Attendance_Part-Time,0.0
+Attendance_Online,0.0
+Nacionality_109,0.0
+Citizenship_Berlin,0.0
+Citizenship_Athens,0.0
+Citizenship_Brussels,0.0
+Citizenship_Budapest,0.0
+Citizenship_Bucharest,0.0
+Citizenship_Edinburgh,0.0
+Citizenship_Copenhagen,0.0
+Citizenship_Helsinki,0.0
+Citizenship_Istanbul,0.0
+Citizenship_Kyiv,0.0
+Citizenship_Barcelona,0.0
+Citizenship_London,0.0
+Citizenship_Madrid,0.0
+Citizenship_Munich,0.0
+Citizenship_Milan,0.0
+Citizenship_Paris,0.0
+Citizenship_Prague,0.0
+Citizenship_Rome,0.0
+Citizenship_Oslo,0.0
+Citizenship_Saint Petersburg,0.0
+Citizenship_Sofia,0.0
+Citizenship_Venice,0.0
+Citizenship_Stockholm,0.0
+Citizenship_Vienna,0.0
+Citizenship_Warsaw,0.0
+Citizenship_Zurich,0.0
+Family Position_Middle Child,0.0

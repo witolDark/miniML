@@ -1,0 +1,30 @@
+Результати для RandomForest:
+                 precision    recall  f1-score   support
+
+Not Dropped Out       0.90      0.90      0.90       296
+    Dropped Out       0.80      0.80      0.80       147
+
+       accuracy                           0.87       443
+      macro avg       0.85      0.85      0.85       443
+   weighted avg       0.87      0.87      0.87       443
+==================================================
+Результати для GradientBoosting:
+                 precision    recall  f1-score   support
+
+Not Dropped Out       0.89      0.94      0.91       296
+    Dropped Out       0.86      0.76      0.81       147
+
+       accuracy                           0.88       443
+      macro avg       0.87      0.85      0.86       443
+   weighted avg       0.88      0.88      0.88       443
+==================================================
+Результати для LogisticRegression:
+                 precision    recall  f1-score   support
+
+Not Dropped Out       0.92      0.86      0.89       296
+    Dropped Out       0.75      0.85      0.80       147
+
+       accuracy                           0.86       443
+      macro avg       0.83      0.85      0.84       443
+   weighted avg       0.86      0.86      0.86       443
+==================================================
